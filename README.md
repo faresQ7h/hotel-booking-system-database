@@ -3,6 +3,10 @@
 This project is a relational database system designed to manage bookings for multiple hotels.
 It was created as part of a university database course and focuses on proper database design and SQL implementation.
 
+## Conceptual schema
+![Database Diagram](conceptual_schecma.png)
+
+
 ## Features
 - Support for managing multiple hotels with location details and star ratings
 - Room management per hotel, including room category, price per night, area, and descriptions
