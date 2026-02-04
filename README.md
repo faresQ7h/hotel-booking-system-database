@@ -3,8 +3,9 @@
 This project is a relational database system designed to manage bookings for multiple hotels.
 It was created as part of a university database course and focuses on proper database design and SQL implementation.
 
-## Conceptual schema
+## Conceptual Schema
 ![Digram](conceptual_schema.png)
+This diagram represents the conceptual design of the database and the relationships between main entities.
 
 
 ## Features
