@@ -27,5 +27,5 @@ It was created as part of a university database course and focuses on proper dat
 - `data_dml.sql` – sample data for testing
 
 ## Notes
--All data is for demonstration purposes only.
--This is a practice project. Business rules and design choices are based on my own assumptions and may differ from real systems.
+- All data is for demonstration purposes only.
+- This is a practice project. Business rules and design choices are based on my own assumptions and may differ from real systems.
