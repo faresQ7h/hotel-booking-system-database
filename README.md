@@ -4,7 +4,7 @@ This project is a relational database system designed to manage bookings for mul
 It was created as part of a university database course and focuses on proper database design and SQL implementation.
 
 ## Conceptual schema
-![Digram](conceptual_schecma.png)
+![Digram](conceptual_schema.png)
 
 
 ## Features
